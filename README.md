@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 ## License
 MIT
 
-[![License](https://img.shields.io/badge/license-BSD-green.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/license/mit)
