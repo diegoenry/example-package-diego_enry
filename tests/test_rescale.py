@@ -2,7 +2,6 @@
 import numpy as np
 from example_package_diego_enry.rescale import rescale
 
-
 def test_rescale():
     np.testing.assert_allclose(
         rescale(np.linspace(0, 100, 5)),
